@@ -38,37 +38,37 @@
                 <img src="../resources/img/container/prokopenko.png" alt="educator-photo">
                 <div class="name">Прокопенко Анна Андріївна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="prokopenko"><div class="read-more">Читати далі >></div></a>
             </div>
             <div class="melnyk">
                 <img src="../resources/img/container/melnyk.png" alt="educator-photo">
                 <div class="name">Мельник Яна Миколаївна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="melnyk"><div class="read-more">Читати далі >></div></a>
             </div>
             <div class="shpuryk">
                 <img src="../resources/img/container/shpuryk.png" alt="educator-photo">
                 <div class="name">Шпурик Вероніка Ігорівна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="shpuryk"><div class="read-more">Читати далі >></div></a>
             </div>
             <div class="protsenko">
                 <img src="../resources/img/container/protsenko.png" alt="educator-photo">
                 <div class="name">Проценко Кароліна Віталіївна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="protsenko"><div class="read-more">Читати далі >></div></a>
             </div>
             <div class="kviten">
                 <img src="../resources/img/container/kviten.png" alt="educator-photo">
                 <div class="name">Квітень Алла Вікторівна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="kviten"><div class="read-more">Читати далі >></div></a>
             </div>
             <div class="yalovenko">
                 <img src="../resources/img/container/yalovenko.png" alt="educator-photo">
                 <div class="name">Яловенко Олена Миколаївна</div>
                 <div class="description">Досвід: 8 років. Кращий вихователь України - 2018. Переможеця міського конкурсу “Я люблю дітей”</div>
-                <a href="informative"><div class="read-more">Читати далі >></div></a>
+                <a href="yalovenko"><div class="read-more">Читати далі >></div></a>
             </div>
         </div>
 

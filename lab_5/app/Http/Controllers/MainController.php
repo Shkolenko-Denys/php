@@ -14,8 +14,28 @@ class MainController extends Controller {
         return view('container');
     }
 
-    public function informative() {
-        return view('informative');
+    public function prokopenko() {
+        return view('prokopenko');
+    }
+
+    public function melnyk() {
+        return view('melnyk');
+    }
+
+    public function shpuryk() {
+        return view('shpuryk');
+    }
+
+    public function protsenko() {
+        return view('protsenko');
+    }
+
+    public function kviten() {
+        return view('kviten');
+    }
+
+    public function yalovenko() {
+        return view('yalovenko');
     }
 
     public function callback() {
